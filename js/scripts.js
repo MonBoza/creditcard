@@ -30,5 +30,5 @@ function creditCard(inputBox) {
 }
 
 window.addEventListener() {
-document.getElementById
+document.getElementById("inputBox").
 }
